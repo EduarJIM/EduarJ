@@ -36,11 +36,6 @@ Me apasiona el aprendizaje continuo, la resolución de problemas y aportar soluc
 ## 🚀 Objetivo Profesional
 Contribuir en proyectos que impulsen el crecimiento tecnológico de la empresa, aplicando mis conocimientos en desarrollo web y bases de datos, mientras continúo fortaleciendo mis habilidades técnicas y personales.
 
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduarJIMG&show_icons=true&theme=tokyonight) 
 
 ---
 
