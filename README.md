@@ -40,11 +40,7 @@ Contribuir en proyectos que impulsen el crecimiento tecnológico de la empresa, 
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduarJIMG&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduarJIM&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduarJIM&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduarJIMG&show_icons=true&theme=tokyonight) 
 
 ---
 
@@ -55,5 +51,4 @@ Contribuir en proyectos que impulsen el crecimiento tecnológico de la empresa, 
 ---
 
 📫 **Contacto:**  
-[Tu correo electrónico]  
-[Tu perfil de LinkedIn o portafolio si lo tienes]
+eworstef12@gmail.com
