@@ -33,6 +33,32 @@ Me apasiona el aprendizaje continuo, la resolución de problemas y aportar soluc
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduarJIM&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduarJIM&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduarJIM&theme=tokyonight)
+
+---
+
+## 🗂️ Repositorios Destacados
+
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=EduarJIM&repo=nombre-del-repo1&theme=tokyonight)](https://github.com/tu-usuario/nombre-del-repo1)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=EduarJIM&repo=nombre-del-repo2&theme=tokyonight)](https://github.com/tu-usuario/nombre-del-repo2)
+
+---
+
+
+
+
+
+
+---
+
+
+
 ## 🚀 Objetivo Profesional
 Contribuir en proyectos que impulsen el crecimiento tecnológico de la empresa, aplicando mis conocimientos en desarrollo web y bases de datos, mientras continúo fortaleciendo mis habilidades técnicas y personales.
 
