@@ -1,4 +1,42 @@
 # EduarJ
-Estudiante tecnologico de analisis y desarollo de software con conocimientos en lenguaje de programacion HTML, JavaScript, Python. Me apasiona el desarrollo de software y la creación de soluciones tecnológicas innovadoras. Busco oportunidades para seguir creciendo profesionalmente y contribuir al desarrollo de aplicaciones eficientes y funcionales.
+# 👋 ¡Hola! Soy Eduar Jimenez Lopez
 
-Technology student specializing in software analysis and development with knowledge of HTML, JavaScript, and Python programming languages. I am passionate about software development and creating innovative technological solutions. I am looking for opportunities to continue growing professionally and contribute to the development of efficient and functional applications.
+Soy un **desarrollador web** con enfoque en la creación de sitios funcionales, responsivos y optimizados. Me apasiona el aprendizaje continuo, la resolución de problemas y aportar soluciones efectivas a los retos tecnológicos.
+
+---
+
+## 💻 Lenguajes de Programación
+- **HTML** – Estructura y maquetación web semántica.
+- **CSS** – Estilos, diseño responsivo y adaptabilidad.
+- **JavaScript** – Interactividad y lógica de cliente.
+
+---
+
+## 🗄️ Bases de Datos
+- **MySQL** – Manejo de datos relacionales, consultas y estructura de bases de datos.
+- Conocimientos básicos en bases de datos **relacionales y no relacionales**.
+
+---
+
+## 🌐 Desarrollo Web
+- Diseño y desarrollo de **sitios web responsivos**.
+- Implementación de interfaces limpias y funcionales con HTML, CSS y JavaScript.
+- Enfoque en la **experiencia del usuario (UX)** y la **usabilidad (UI)**.
+
+---
+
+## ⚙️ Habilidades Blandas
+- Enfoque en **resultados contundentes**.
+- **Proactividad** y disposición para aprender nuevas tecnologías.
+- **Comunicación asertiva** y trabajo en equipo.
+- **Adaptabilidad** a distintos entornos laborales y desafíos.
+
+---
+
+## 🚀 Objetivo Profesional
+Contribuir en proyectos que impulsen el crecimiento tecnológico de la empresa, aplicando mis conocimientos en desarrollo web y bases de datos, mientras continúo fortaleciendo mis habilidades técnicas y personales.
+
+---
+
+📫 **Contacto:**  
+eworstef12@gmail.com
