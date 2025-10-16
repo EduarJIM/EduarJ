@@ -39,8 +39,6 @@ Me apasiona el aprendizaje continuo, la resolución de problemas y aportar soluc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduarJIM&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduarJIM&theme=tokyonight)
-
 ---
 
 ## 🗂️ Repositorios Destacados
