@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="220" style="border-radius: 15px;" />
+  <img src="https://media4.giphy.com/media/7spY8XLVu5xRgmDais/giphy.gif" width="100%" style="max-width: 600px; border-radius: 15px;" />
 
   <br><br>
 
@@ -27,9 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7w1lR0ZfWBRjYhFeue/giphy.gif" width="30" />
   <b>Estudiante de Análisis y Desarrollo de Software</b>
-  <img src="https://media.giphy.com/media/7w1lR0ZfWBRjYhFeue/giphy.gif" width="30" />
 </p>
 
 <p align="center">
@@ -64,11 +62,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/f8p6HYJ33EPv4IMfS6/giphy.gif" width="50" style="border-radius: 50%;" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=EduarJIM&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" height="170" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/gU5OZNEQA0J6dJ2XVh/giphy.gif" width="50" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -91,16 +85,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/KUpaucVOf5hCjluoxV/giphy.gif" width="70" style="border-radius: 50%;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/5pyEtrdgZprAV0T8C7/giphy.gif" width="70" style="border-radius: 50%;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/yfjhp32tN8xDAAxx1e/giphy.gif" width="70" style="border-radius: 50%;" />
-</p>
-
-<br>
-
 ---
 
 <br>
@@ -114,9 +98,6 @@
 <!-- Citas Médicas -->
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F; margin-bottom: 16px;">
   <tr>
-    <td width="90" valign="middle" style="padding: 16px;">
-      <img src="https://media4.giphy.com/media/nm5ChabmZG9pgGxaVY/giphy.gif" width="70" style="border-radius: 50%;" />
-    </td>
     <td valign="middle" style="padding: 16px 20px;">
       <b style="font-size: 18px;">📋 Citas Médicas</b><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -134,9 +115,6 @@
 <!-- Diagnostical Pets -->
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F; margin-bottom: 16px;">
   <tr>
-    <td width="90" valign="middle" style="padding: 16px;">
-      <img src="https://media4.giphy.com/media/kov9ANAbzE6jquWYbn/giphy.gif" width="70" style="border-radius: 50%;" />
-    </td>
     <td valign="middle" style="padding: 16px 20px;">
       <b style="font-size: 18px;">🐾 Diagnostical Pets</b><br><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -152,9 +130,6 @@
 <!-- KukyPets -->
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F; margin-bottom: 16px;">
   <tr>
-    <td width="90" valign="middle" style="padding: 16px;">
-      <img src="https://media4.giphy.com/media/pv1Rl8vmqyLtUCtmke/giphy.gif" width="70" style="border-radius: 50%;" />
-    </td>
     <td valign="middle" style="padding: 16px 20px;">
       <b style="font-size: 18px;">🐶 KukyPets Spa Canino</b><br><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -172,9 +147,6 @@
 <!-- Dulce Encanto -->
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F;">
   <tr>
-    <td width="90" valign="middle" style="padding: 16px;">
-      <img src="https://media4.giphy.com/media/f8p6HYJ33EPv4IMfS6/giphy.gif" width="70" style="border-radius: 50%;" />
-    </td>
     <td valign="middle" style="padding: 16px 20px;">
       <b style="font-size: 18px;">🍬 Dulce Encanto</b><br><br>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -215,7 +187,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="180" style="border-radius: 15px;" />
+  <img src="https://media0.giphy.com/media/okv81X4YtRIty/giphy.gif" width="100%" style="max-width: 600px; border-radius: 15px;" />
   <br><br>
   <a href="https://github.com/EduarJIM">
     <img src="https://img.shields.io/badge/EduarJIM-1E3A5F?style=for-the-badge&logo=github&logoColor=white" />
