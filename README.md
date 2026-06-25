@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/7spY8XLVu5xRgmDais/giphy.gif" width="100%" style="max-width: 600px; border-radius: 15px;" />
+  <img src="https://media0.giphy.com/media/IEZy0MXCCxBShZaloq/giphy.gif" width="100%" style="max-width: 600px; border-radius: 15px;" />
 
   <br><br>
 
@@ -187,7 +187,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/okv81X4YtRIty/giphy.gif" width="100%" style="max-width: 600px; border-radius: 15px;" />
+  <img src="https://media3.giphy.com/media/51QJyBiTYf7peXR48P/giphy.gif" width="100%" style="max-width: 600px; border-radius: 15px;" />
   <br><br>
   <a href="https://github.com/EduarJIM">
     <img src="https://img.shields.io/badge/EduarJIM-1E3A5F?style=for-the-badge&logo=github&logoColor=white" />
