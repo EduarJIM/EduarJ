@@ -64,11 +64,16 @@
 <br>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="50" style="border-radius: 50%;" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=EduarJIM&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduarJIM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="50" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduarJIM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduarJIM&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
 </p>
 
@@ -86,6 +91,16 @@
 
 <br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/7w1lR0ZfWBRjYhFeue/giphy.gif" width="70" style="border-radius: 50%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/7w1lR0ZfWBRjYhFeue/giphy.gif" width="70" style="border-radius: 50%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/7w1lR0ZfWBRjYhFeue/giphy.gif" width="70" style="border-radius: 50%;" />
+</p>
+
+<br>
+
 ---
 
 <br>
@@ -95,40 +110,84 @@
 <br>
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 85%; max-width: 700px;">
-    <tr>
-      <td style="padding: 16px; border-bottom: 1px solid #1E3A5F;">
-        <b>📋 Citas Médicas</b><br>
-        <span style="color: #38BDF8;">Python · Django REST · React</span><br>
-        <span style="font-size: 14px; color: #94A3B8;">Aplicación web completa para gestión de citas médicas con API REST y frontend dinámico con autenticación.</span><br>
-        <a href="https://github.com/EduarJIM/Citas-medicas"><img src="https://img.shields.io/badge/Repositorio-1E3A5F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 16px; border-bottom: 1px solid #1E3A5F;">
-        <b>🐾 Diagnostical Pets</b><br>
-        <span style="color: #38BDF8;">TypeScript · UI/UX</span><br>
-        <span style="font-size: 14px; color: #94A3B8;">App de escritorio para diagnóstico de mascotas con dashboard de estadísticas, registro y análisis de síntomas con alertas de severidad.</span><br>
-        <a href="https://github.com/EduarJIM/Diagnostical-Pets"><img src="https://img.shields.io/badge/Repositorio-1E3A5F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 16px; border-bottom: 1px solid #1E3A5F;">
-        <b>🐶 KukyPets Spa Canino</b><br>
-        <span style="color: #38BDF8;">React · Python · Tailwind · Supabase</span><br>
-        <span style="font-size: 14px; color: #94A3B8;">Plataforma completa de gestión para spa canino: dashboard admin con CRUDs, agendamiento de citas, historial médico, export Excel y autenticación por roles.</span><br>
-        <a href="https://github.com/ValenBV1013/KukyPets"><img src="https://img.shields.io/badge/Repositorio-1E3A5F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 16px;">
-        <b>🍬 Dulce Encanto</b><br>
-        <span style="color: #38BDF8;">HTML · CSS · Responsive Design</span><br>
-        <span style="font-size: 14px; color: #94A3B8;">Landing page elegante y responsiva con diseño limpio enfocado en experiencia de usuario y rendimiento.</span><br>
-        <a href="https://github.com/EduarJIM/dulce-encanto"><img src="https://img.shields.io/badge/Repositorio-1E3A5F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </td>
-    </tr>
-  </table>
+
+<!-- Citas Médicas -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F; margin-bottom: 16px;">
+  <tr>
+    <td width="90" valign="middle" style="padding: 16px;">
+      <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="70" style="border-radius: 50%;" />
+    </td>
+    <td valign="middle" style="padding: 16px 20px;">
+      <b style="font-size: 18px;">📋 Citas Médicas</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <br><br>
+      <span style="font-size: 14px; color: #94A3B8;">Aplicación web completa para gestión de citas médicas con API REST en Django y frontend dinámico en React con autenticación.</span>
+      <br><br>
+      <a href="https://github.com/EduarJIM/Citas-medicas"><img src="https://img.shields.io/badge/🔗_Ver_Repositorio-1E3A5F?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Diagnostical Pets -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F; margin-bottom: 16px;">
+  <tr>
+    <td width="90" valign="middle" style="padding: 16px;">
+      <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="70" style="border-radius: 50%;" />
+    </td>
+    <td valign="middle" style="padding: 16px 20px;">
+      <b style="font-size: 18px;">🐾 Diagnostical Pets</b><br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+      <br><br>
+      <span style="font-size: 14px; color: #94A3B8;">App de escritorio para diagnóstico de mascotas con dashboard de estadísticas, registro y análisis de síntomas con alertas de severidad.</span>
+      <br><br>
+      <a href="https://github.com/EduarJIM/Diagnostical-Pets"><img src="https://img.shields.io/badge/🔗_Ver_Repositorio-1E3A5F?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- KukyPets -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F; margin-bottom: 16px;">
+  <tr>
+    <td width="90" valign="middle" style="padding: 16px;">
+      <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="70" style="border-radius: 50%;" />
+    </td>
+    <td valign="middle" style="padding: 16px 20px;">
+      <b style="font-size: 18px;">🐶 KukyPets Spa Canino</b><br><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+      <br><br>
+      <span style="font-size: 14px; color: #94A3B8;">Plataforma completa de gestión para spa canino: dashboard admin con CRUDs, agendamiento de citas, historial médico, export Excel y autenticación por roles.</span>
+      <br><br>
+      <a href="https://github.com/ValenBV1013/KukyPets"><img src="https://img.shields.io/badge/🔗_Ver_Repositorio-1E3A5F?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Dulce Encanto -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 85%; max-width: 720px; background: rgba(13,17,23,0.8); border-radius: 16px; border: 1px solid #1E3A5F;">
+  <tr>
+    <td width="90" valign="middle" style="padding: 16px;">
+      <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="70" style="border-radius: 50%;" />
+    </td>
+    <td valign="middle" style="padding: 16px 20px;">
+      <b style="font-size: 18px;">🍬 Dulce Encanto</b><br><br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+      <br><br>
+      <span style="font-size: 14px; color: #94A3B8;">Landing page elegante y responsiva con diseño limpio enfocado en experiencia de usuario y rendimiento.</span>
+      <br><br>
+      <a href="https://github.com/EduarJIM/dulce-encanto"><img src="https://img.shields.io/badge/🔗_Ver_Repositorio-1E3A5F?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
@@ -156,9 +215,11 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="180" style="border-radius: 15px;" />
   <br><br>
-  <sub>⚡ Nunca dejo de aprender, nunca dejo de crear</sub>
+  <a href="https://github.com/EduarJIM">
+    <img src="https://img.shields.io/badge/EduarJIM-1E3A5F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
